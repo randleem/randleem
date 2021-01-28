@@ -1,6 +1,6 @@
 ### Greetings, I'm Emma, welcome to my GitHub Page
 
-![Emmas Avatar](http://res.cloudinary.com/soc-journal/image/upload/v1611855814/e0nrjaafhs5jbsnjjds5.jpg)
+![Emmas Avatar](http://res.cloudinary.com/soc-journal/image/upload/v1611855814/e0nrjaafhs5jbsnjjds5.jpg =200x200)
 
 <!--
 **randleem/randleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
