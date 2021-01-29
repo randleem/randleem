@@ -1,4 +1,4 @@
-### Greetings, I'm Emma, welcome to my GitHub Page
+#Greetings, I'm Emma, welcome to my GitHub Page
 
 I am a full-stack developer who has recently completed a 16-week coding bootcamp hosted by the [school of code](https://www.schoolofcode.co.uk). 
 
