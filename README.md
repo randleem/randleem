@@ -12,7 +12,7 @@ Unfortunately, I've been having git problems (what a git) and realised my email 
 
 My git history, is therefore incomplete and doesnt fully show my activity. 
 
-However, I have cloned many of our School of Code project repos which contain examples of code I have worked and contributed to. 
+However, I have cloned many of our School of Code project repos, which contain examples of code I have worked on and contributed to. 
 
 If you have any questions or would like a chat, please don't hesitate to get in touch 😀
 
