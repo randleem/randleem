@@ -1,8 +1,10 @@
 ### Greetings, I'm Emma, welcome to my GitHub Page
 
-Unfortunately, I've been having git problems (what a git) and realised my email address and user name were not set up correctly and didnt match my github, therefore, my git history isn't showing properly. 
+Unfortunately, I've been having git problems (what a git) and realised my email address and username were not set up correctly, and didn't match my github. 
 
-However, I have cloned many of our School of Code project repos which contain examples of code I have contributed on. 
+My git history, therefore isn't showing properly. 
+
+However, I have cloned many of our School of Code project repos which contain examples of code I have worked and contributed to. 
 
 ![Emmas Avatar](http://res.cloudinary.com/soc-journal/image/upload/v1611856361/qcz9z4vjuozpmvhmmfct.jpg)
 
